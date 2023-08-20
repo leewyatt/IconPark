@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#icon-d12db4ee6a0e536_00000157299220038245281660000016005647938444705973_);}
+	.st2{fill:#333333;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="15.9" y="10" width="4.6" height="4.6">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="15.9" y="10" width="4.6" height="4.6" id="icon-d12db4ee6a0e536_00000157299220038245281660000016005647938444705973_">
+	<rect x="15" y="9" class="st0" width="6.5" height="6.5"/>
+</mask>
+<g class="st1">
+	<rect x="15.2" y="12" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3281 16.4936)" class="st2" width="6" height="0.5"/>
+	<rect x="18" y="9.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3276 16.4939)" class="st2" width="0.5" height="6"/>
+</g>
+<path class="st2" d="M12.2,21.2H12c-3.3,0-5.8-3.8-6.2-4.6H3c-0.7,0-1.2-0.6-1.2-1.2V8.5c0-0.7,0.6-1.2,1.2-1.2h2.8
+	C6.2,6.5,8.7,2.8,12,2.8h0.2V21.2z M3,7.8c-0.4,0-0.8,0.3-0.8,0.8v6.9c0,0.4,0.3,0.8,0.8,0.8h3l0.1,0.1c0,0,2.4,4.2,5.6,4.4V3.3
+	C8.6,3.5,6.1,7.6,6.1,7.6L6,7.8H3z"/>
+</svg>
+
+
+
+
+

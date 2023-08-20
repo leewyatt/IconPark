@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="24" height="24"/>
+	</defs>
+	<clipPath id="SVGID_00000015318903536845537700000003936180872809703095_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000015318903536845537700000003936180872809703095_);">
+		<path style="fill:#333333;" d="M20,21.25H4c-0.689,0-1.25-0.561-1.25-1.25V4C2.75,3.31,3.311,2.75,4,2.75h7.5v0.5H4
+			C3.587,3.25,3.25,3.586,3.25,4v16c0,0.413,0.336,0.75,0.75,0.75h16c0.413,0,0.75-0.337,0.75-0.75v-7.5h0.5V20
+			C21.25,20.689,20.689,21.25,20,21.25z"/>
+		<rect x="11.751" y="8" style="fill:#333333;" width="0.5" height="4"/>
+		<rect x="20.75" y="3" style="fill:#333333;" width="0.5" height="4"/>
+		<rect x="12.001" y="11.75" style="fill:#333333;" width="4" height="0.5"/>
+		
+			<rect x="10.136" y="7.25" transform="matrix(0.7076 -0.7066 0.7066 0.7076 -0.4747 13.8521)" style="fill:#333333;" width="12.728" height="0.5"/>
+		<rect x="17" y="2.75" style="fill:#333333;" width="4" height="0.5"/>
+	</g>
+</g>
+</svg>
+
+
+
+
+
+

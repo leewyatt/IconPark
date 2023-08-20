@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path style="fill:#333333;" d="M12,23C5.935,23,1,18.065,1,12S5.935,1,12,1s11,4.935,11,11S18.065,23,12,23z M12,3
+	c-4.962,0-9,4.038-9,9c0,4.963,4.038,9,9,9c4.963,0,9-4.037,9-9C21,7.038,16.963,3,12,3z"/>
+<path style="fill:none;" d="M15.5,3.5V12V3.5z"/>
+<rect x="14.5" y="3.5" style="fill:#333333;" width="2" height="8.5"/>
+<path style="fill:none;" d="M8.318,3.318l7.071,7.071L8.318,3.318z"/>
+<rect x="10.853" y="1.854" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.3745 10.3884)" style="fill:#333333;" width="2" height="10"/>
+<path style="fill:none;" d="M3.5,8.5H12H3.5z"/>
+<rect x="3.5" y="7.5" style="fill:#333333;" width="8.5" height="2"/>
+<path style="fill:none;" d="M10.182,8.818l-7.071,7.071L10.182,8.818z"/>
+<rect x="1.647" y="11.353" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.7884 8.318)" style="fill:#333333;" width="10" height="2"/>
+<path style="fill:none;" d="M8.5,12.5V21V12.5z"/>
+<rect x="7.5" y="12.5" style="fill:#333333;" width="2" height="8.5"/>
+<path style="fill:none;" d="M8.818,13.818l7.071,7.071L8.818,13.818z"/>
+<rect x="11.353" y="12.354" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.6527 13.8185)" style="fill:#333333;" width="2" height="9.999"/>
+<path style="fill:none;" d="M12,15.5h9H12z"/>
+<rect x="12" y="14.5" style="fill:#333333;" width="9" height="2"/>
+<path style="fill:none;" d="M21.182,8.318l-7.071,7.071L21.182,8.318z"/>
+<rect x="12.647" y="10.853" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.2129 15.95)" style="fill:#333333;" width="10" height="2"/>
+<path style="fill:#333333;" d="M12,16.5c-2.481,0-4.5-2.019-4.5-4.5S9.519,7.5,12,7.5s4.5,2.019,4.5,4.5S14.481,16.5,12,16.5z
+	 M12,9.5c-1.378,0-2.5,1.122-2.5,2.5c0,1.379,1.122,2.5,2.5,2.5c1.379,0,2.5-1.121,2.5-2.5C14.5,10.622,13.379,9.5,12,9.5z"/>
+</svg>
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path style="fill:#333333;" d="M12,22.75C6.072,22.75,1.25,17.928,1.25,12S6.072,1.25,12,1.25S22.75,6.072,22.75,12
+	S17.928,22.75,12,22.75z M12,2.75c-5.101,0-9.25,4.149-9.25,9.25s4.149,9.25,9.25,9.25s9.25-4.149,9.25-9.25S17.101,2.75,12,2.75z"
+	/>
+<path style="fill:none;" d="M15.5,3.5V12V3.5z"/>
+<rect x="14.75" y="3.5" style="fill:#333333;" width="1.5" height="8.5"/>
+<path style="fill:none;" d="M8.318,3.318l7.071,7.071L8.318,3.318z"/>
+<rect x="11.103" y="1.854" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.3745 10.3884)" style="fill:#333333;" width="1.5" height="10"/>
+<path style="fill:none;" d="M3.5,8.5H12H3.5z"/>
+<rect x="3.5" y="7.75" style="fill:#333333;" width="8.5" height="1.5"/>
+<path style="fill:none;" d="M10.182,8.818l-7.071,7.071L10.182,8.818z"/>
+<rect x="1.647" y="11.603" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.7884 8.318)" style="fill:#333333;" width="10" height="1.5"/>
+<path style="fill:none;" d="M8.5,12.5V21V12.5z"/>
+<rect x="7.75" y="12.5" style="fill:#333333;" width="1.5" height="8.5"/>
+<path style="fill:none;" d="M8.818,13.818l7.071,7.071L8.818,13.818z"/>
+<rect x="11.603" y="12.354" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.6527 13.8185)" style="fill:#333333;" width="1.5" height="9.999"/>
+<path style="fill:none;" d="M12,15.5h9H12z"/>
+<rect x="12" y="14.75" style="fill:#333333;" width="9" height="1.5"/>
+<path style="fill:none;" d="M21.182,8.318l-7.071,7.071L21.182,8.318z"/>
+<rect x="12.647" y="11.103" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.2129 15.95)" style="fill:#333333;" width="10" height="1.5"/>
+<path style="fill:#333333;" d="M12,16.25c-2.343,0-4.25-1.906-4.25-4.25c0-2.343,1.907-4.25,4.25-4.25c2.344,0,4.25,1.907,4.25,4.25
+	C16.25,14.344,14.344,16.25,12,16.25z M12,9.25c-1.517,0-2.75,1.233-2.75,2.75s1.233,2.75,2.75,2.75s2.75-1.233,2.75-2.75
+	S13.517,9.25,12,9.25z"/>
+</svg>
+
+
+
+
+
+

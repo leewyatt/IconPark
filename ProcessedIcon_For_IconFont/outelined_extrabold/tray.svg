@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="24" height="24"/>
+	</defs>
+	<clipPath id="SVGID_00000160176909697142693790000004342873663695980943_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000160176909697142693790000004342873663695980943_);">
+		<path style="fill:#333333;" d="M11.674,22.713c-0.535,0-1.037-0.208-1.415-0.586l-8.485-8.485
+			c-0.377-0.376-0.586-0.879-0.586-1.413c0-0.535,0.208-1.037,0.586-1.415l9.192-9.192c0.779-0.78,2.048-0.781,2.828,0l8.485,8.485
+			c0.378,0.377,0.586,0.879,0.586,1.414s-0.208,1.037-0.586,1.415l-9.192,9.191C12.71,22.505,12.208,22.713,11.674,22.713z
+			 M12.38,3.035l-9.191,9.194l8.485,8.484l9.192-9.192L12.38,3.035z"/>
+		<polygon style="fill:#333333;" points="19.806,9.046 18.392,7.632 19.806,6.217 17.685,4.096 16.27,5.51 14.855,4.096 
+			17.685,1.268 22.634,6.217 		"/>
+		<rect x="9" y="9.5" style="fill:#333333;" width="6" height="2"/>
+		<rect x="9" y="12.5" style="fill:#333333;" width="2" height="2"/>
+		<rect x="14" y="12.5" style="fill:#333333;" width="1" height="2"/>
+	</g>
+</g>
+</svg>
+
+
+
+
+
+

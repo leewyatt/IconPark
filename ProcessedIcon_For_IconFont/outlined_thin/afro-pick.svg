@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="24" height="24"/>
+	</defs>
+	<clipPath id="SVGID_00000148627140162504800830000009649957361198208438_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000148627140162504800830000009649957361198208438_);">
+		<polygon style="fill:#333333;" points="13.328,22.339 1.661,10.671 10.323,2.009 10.677,2.363 2.368,10.671 13.328,21.632 
+			21.637,13.323 21.99,13.677 		"/>
+		
+			<rect x="3.086" y="9.007" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.8846 9.1359)" style="fill:#333333;" width="12" height="0.5"/>
+		
+			<rect x="5.914" y="11.835" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.0561 11.9644)" style="fill:#333333;" width="12" height="0.5"/>
+		
+			<rect x="8.743" y="14.664" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.2276 14.7928)" style="fill:#333333;" width="12" height="0.5"/>
+		<path style="fill:#333333;" d="M8.025,21.278l-1.196-1.196l-2.184-0.729L3.917,17.17l-1.195-1.195L5.197,13.5l5.303,5.303
+			L8.025,21.278z M5.041,18.959l2.1,0.728l0.884,0.885l1.768-1.769l-4.596-4.596l-1.768,1.768l0.944,0.981L5.041,18.959z"/>
+	</g>
+</g>
+</svg>
+
+
+
+
+
+

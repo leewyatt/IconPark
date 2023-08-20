@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="2" y="1.586" width="20" height="20.414">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="2" y="1.586" width="20" height="20.414" id="icon-4aa955217f10b972_00000147220640197964766230000009376004566680943526_">
+	<path style="fill:#333333;filter:url(#Adobe_OpacityMaskFilter);" d="M24,0H0v24h24V0z"/>
+</mask>
+<g style="mask:url(#icon-4aa955217f10b972_00000147220640197964766230000009376004566680943526_);">
+	<polygon style="fill:#333333;" points="22,22 2,22 2,12.004 4,12.004 4,20 20,20 20,12 22,12 	"/>
+	<polygon style="fill:#333333;" points="15.793,8.207 12,4.414 8.207,8.207 6.793,6.793 12,1.586 17.207,6.793 	"/>
+	<rect x="10.996" y="3" style="fill:#333333;" width="2" height="13"/>
+</g>
+</svg>
+
+
+
+
+
+
